@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TechSolutions.Datos/TechSolutions.Datos.csproj" Id="d6e9776c-e2c0-4a5e-b8f5-87497b04a14e" />
+  <Project Path="TechSolutions.Entidades/TechSolutions.Entidades.csproj" Id="f6eca4ae-aa23-479f-aeb9-912086f7a4ff" />
+  <Project Path="TechSolutions.Negocio/TechSolutions.Negocio.csproj" Id="64c57af5-5f10-4e80-990f-e01aac8df41f" />
+  <Project Path="TechSolutions.Presentacion/TechSolutions.Presentacion.csproj" Id="50cf2fab-f8db-453d-bf64-5736f939420c" />
+</Solution>
